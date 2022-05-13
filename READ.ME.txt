@@ -1,0 +1,3 @@
+First you need to download Website folder to you computer.
+(I try to open from onedrive but does not display the website properly)
+Click the html.index website inside the file to view the website properly.
